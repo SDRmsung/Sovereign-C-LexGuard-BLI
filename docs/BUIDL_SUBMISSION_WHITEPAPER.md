@@ -4,7 +4,7 @@
 **Track**: RegTech, Smart Contract Compliance, RWA Legal Tokenization & Legal-AI Agents  
 **Event**: DoraHacks BLI Legal Tech Hackathon 2 (2026)  
 **Authors / Team**: SDRmsung (AI-TRIZ Sovereign Governance Group)  
-**GitHub Repository**: [https://github.com/SDRmsung/Sovereign-LexGuard](https://github.com/SDRmsung/Sovereign-LexGuard)  
+**GitHub Repository**: [https://github.com/SDRmsung/Sovereign-C-LexGuard-BLI](https://github.com/SDRmsung/Sovereign-C-LexGuard-BLI)  
 **License**: Apache 2.0  
 
 ---

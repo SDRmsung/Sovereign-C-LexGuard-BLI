@@ -87,7 +87,7 @@ Sovereign LexGuard bridges this gap by introducing the world's first **Formal SA
 * **One-Click Judge Verification**: Full test suite passes 100% green in under 3ms.
 
 ## 4. Open Source & Reproducibility
-* GitHub: https://github.com/SDRmsung/Sovereign-LexGuard
+* GitHub: https://github.com/SDRmsung/Sovereign-C-LexGuard-BLI
 * License: Apache 2.0
 ```
 
@@ -97,12 +97,12 @@ Sovereign LexGuard bridges this gap by introducing the world's first **Formal SA
 
 ### 1. GitHub Repository URL *
 ```text
-https://github.com/SDRmsung/Sovereign-LexGuard
+https://github.com/SDRmsung/Sovereign-C-LexGuard-BLI
 ```
 
 ### 2. Demo Video / Presentation URL (Optional)
 ```text
-https://github.com/SDRmsung/Sovereign-LexGuard#demo
+https://github.com/SDRmsung/Sovereign-C-LexGuard-BLI#demo
 ```
 
 ### 3. Smart Contract Address (Testnet / Optional)
