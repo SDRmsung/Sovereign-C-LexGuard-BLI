@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sovereign-lexguard"
+version = "1.0.0"
+description = "Formal Legal-to-Contract Bidirectional Mapping & Causal Audit Engine"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "Apache-2.0"}
+dependencies = []
+
+[project.scripts]
+lexguard = "src.cli:main"
