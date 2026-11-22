@@ -40,7 +40,7 @@ Sovereign LexGuard
 ```
 
 ### 2. BUIDL logo *
-* **實體檔案路徑**：[`docs/lexguard_logo.jpg`](file:///C:/AI_TRIZ/35-Areas/A50_Global_Competitions_Arsenal/20-Platforms/03-DoraHacks/BLI-Legal-Tech-Hackathon-2/docs/lexguard_logo.jpg)  
+* **實體檔案路徑**：[`docs/lexguard_logo.jpg`](docs/lexguard_logo.jpg)  
 * *(請直接在網頁上傳此圖片)*
 
 
@@ -121,7 +121,7 @@ SDRmsung (AI-TRIZ Sovereign Governance Group)
 
 ### 2. Contact Email / Telegram
 ```text
-sdrmsung@gmail.com / @sdrmsung
+8454497+SDRmsung@users.noreply.github.com / @sdrmsung
 ```
 
 ---
